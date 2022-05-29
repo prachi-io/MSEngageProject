@@ -1,0 +1,9 @@
+# created by virtualenv automatically
+
+/Lib/site-packages/
+/.idea/
+/Scripts/
+/share/
+/etc/jupyter/nbconfig/notebook.d/
+/similarity.pkl
+/pyvenv.cfg
